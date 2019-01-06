@@ -1,0 +1,4 @@
+people= [["SB,"cool gal"] ["chen","snorer"]
+people.each do|name,adj|
+puts "#{name} is a #{name} 
+end
